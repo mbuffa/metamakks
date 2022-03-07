@@ -1,0 +1,27 @@
+[submodule "sites/mbuffa.github.io"]
+	path = sites/mbuffa.github.io
+	url = git@github.com:mbuffa/mbuffa.github.io.git
+[submodule "apps/tauthoro"]
+	path = apps/tauthoro
+	url = git@github.com:mbuffa/tauthoro.git
+[submodule "examples/elixir-mnesia-example"]
+	path = examples/elixir-mnesia-example
+	url = git@github.com:mbuffa/elixir-mnesia-example.git
+[submodule "examples/elerium"]
+	path = examples/elerium
+	url = git@github.com:mbuffa/elerium.git
+[submodule "katas/workshops/robot_simulator"]
+	path = katas/workshops/robot_simulator
+	url = git@github.com:mbuffa/robot_simulator.git
+[submodule "learning/udemy-react-projects"]
+	path = learning/udemy-react-projects
+	url = git@github.com:mbuffa/udemy-react-projects.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:mbuffa/dotfiles.git
+[submodule "katas/advent-of-code/advent-of-code-2021"]
+	path = katas/advent-of-code/2021
+	url = git@github.com:mbuffa/advent-of-code-2021.git
+[submodule "katas/advent-of-code/2020"]
+	path = katas/advent-of-code/2020
+	url = git@github.com:mbuffa/advent-of-code-2020.git
