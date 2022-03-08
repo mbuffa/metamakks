@@ -25,3 +25,6 @@
 [submodule "katas/advent-of-code/2020"]
 	path = katas/advent-of-code/2020
 	url = git@github.com:mbuffa/advent-of-code-2020.git
+[submodule "documents"]
+	path = docs
+	url = git@github.com:mbuffa/documents.git
